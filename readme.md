@@ -1,8 +1,8 @@
 ### Hi there! 😁
 
-My name is Toti Cavalcanti from Brazil. I am a full-stack developer since 2014, creator and maintainer of [Código Fluente](https://www.codigofluente.com.br). I'm passionate about open source projects. I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
+My name is Toti Cavalcanti from Brazil(🇧🇷). I am a full-stack developer since 2014, creator and maintainer of [Código Fluente](https://www.codigofluente.com.br). I'm passionate about open source projects. I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
 
-In my free time I like run on the beach, watch movies and series, read books, listen and play music, and eventually I like to philosophize about life.
+In my free time I like run on the beach, watch movies🎞️, novels and series📺, read books📚, listen and play music🎵, and eventually I like to philosophize about life.
 
 Would you like to find me?
 
