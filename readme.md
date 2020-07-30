@@ -6,6 +6,6 @@ In my free time I like run on the beach, watch movies🎞️, novels and series�
 
 Would you like to find me?
 
-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/toticavalcanti](https://www.youtube.com/user/toticavalcanti)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/toticavalcanti)](https://www.youtube.com/user/toticavalcanti)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Toti_Cavalcanti)](https://twitter.com/Toti_Cavalcanti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniocavalcantedepaulafilho/)](https://www.linkedin.com/in/antoniocavalcantedepaulafilho/)
