@@ -10,7 +10,7 @@ I've created some projects as [full-stack](https://github.com/toticavalcanti) an
 
 In my free time I like run on the beach, watch movies🎞️, novels and series📺, read books📚, listen and play music🎷, and I like to philosophize about life too.
 
-[![CodigoFluente Badge](https://img.shields.io/endpoint?color=blue&label=C%C3%B3digo%20Fluente&logo=C%C3%B3digo%20Fluente&logoColor=C%C3%B3digo%20Fluente&style=flat-square&url=codigofluente)](https://www.codigofluente.com.br)
+[![CodigoFluente Badge](https://img.shields.io/endpoint?color=blue&label=C%C3%B3digo%20Fluente&logo=C%C3%B3digo%20Fluente&logo&style=flat-square&url=codigofluente)](https://www.codigofluente.com.br)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/toticavalcanti)](https://www.youtube.com/user/toticavalcanti)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Toti_Cavalcanti)](https://twitter.com/Toti_Cavalcanti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniocavalcantedepaulafilho/)](https://www.linkedin.com/in/antoniocavalcantedepaulafilho/)
