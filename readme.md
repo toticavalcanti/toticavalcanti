@@ -6,7 +6,7 @@ I am a full-stack developer since 2014, creator and maintainer of [Código Fluen
 
 I'm passionate about open source projects and and share knowledge. 
 
-I've created some projects as [full-stack](https://github.com/toticavalcanti) and I've always loved to produce a lot of content during my career.
+I've created some projects as full-stack and I've always loved to produce a lot of content during my career.
 
 In my free time I like run on the beach, watch movies🎞️, novels and series📺, read books📚, listen and play music🎷, and I like to philosophize about life too.
 
